@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yssource/hexo-render-org.git"
+    "url": "git+https://github.com/yssource/hexo-render-org.git#emacs"
   },
   "keywords": [
     "hexo",
