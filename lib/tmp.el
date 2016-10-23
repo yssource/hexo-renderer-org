@@ -8,4 +8,4 @@
     (org-mode))
   ;; (org-html-export-as-html nil nil nil nil nil nil)
   (org-html-export-as-html nil nil nil nil nil)
-  (message "${flag}%s${flag}" (buffer-string)))
+  (message "+=+=output_begin=+=+%s+=+=output_begin=+=+" (buffer-string)))
